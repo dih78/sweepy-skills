@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/sweepy-skills/static/css/main.ebf76764.chunk.css",
+    "main.js": "/sweepy-skills/static/js/main.c8c6cbfe.chunk.js",
+    "main.js.map": "/sweepy-skills/static/js/main.c8c6cbfe.chunk.js.map",
+    "runtime-main.js": "/sweepy-skills/static/js/runtime-main.13f718ad.js",
+    "runtime-main.js.map": "/sweepy-skills/static/js/runtime-main.13f718ad.js.map",
+    "static/js/2.67369544.chunk.js": "/sweepy-skills/static/js/2.67369544.chunk.js",
+    "static/js/2.67369544.chunk.js.map": "/sweepy-skills/static/js/2.67369544.chunk.js.map",
+    "index.html": "/sweepy-skills/index.html",
+    "precache-manifest.aa884a74eb425bc9aa2c271cdccedba8.js": "/sweepy-skills/precache-manifest.aa884a74eb425bc9aa2c271cdccedba8.js",
+    "service-worker.js": "/sweepy-skills/service-worker.js",
+    "static/css/main.ebf76764.chunk.css.map": "/sweepy-skills/static/css/main.ebf76764.chunk.css.map",
+    "static/js/2.67369544.chunk.js.LICENSE.txt": "/sweepy-skills/static/js/2.67369544.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.13f718ad.js",
+    "static/js/2.67369544.chunk.js",
+    "static/css/main.ebf76764.chunk.css",
+    "static/js/main.c8c6cbfe.chunk.js"
+  ]
+}
